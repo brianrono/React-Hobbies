@@ -1,0 +1,20 @@
+{
+  "hobbies": [
+    {
+      "id": 1,
+      "name": "Mjengo"
+    },
+    {
+      "id": 2,
+      "name": "Kukula"
+    },
+    {
+      "id": 3,
+      "name": "Mchezo"
+    },
+    {
+      "name": "diy",
+      "id": 5
+    }
+  ]
+}
