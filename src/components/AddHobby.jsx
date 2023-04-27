@@ -21,11 +21,10 @@ const AddHobby = (props) => {
             props.setHobbies([...props.hobbies, data])
             setHobbyInput("")
         })
-       
 
     }
 
-  return (
+    return (
     <>
     <h2>AddHobby</h2>
     <form onSubmit={handleSubmit} >
@@ -33,7 +32,7 @@ const AddHobby = (props) => {
         <button >Add Hobby</button>
     </form>
     </>
-  )
+    )
 }
 
 export default AddHobby
